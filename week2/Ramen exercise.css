@@ -1,0 +1,109 @@
+.special-header {
+    color: white;
+    background-color: rgba(255, 0, 119, 0.579);
+    text-align: center;
+}
+
+#navigation div {
+    list-style-type: square;
+    padding: 10px;
+    background-color: rgba(255, 0, 119, 0.077);
+}
+
+#navigation div li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.our-menu {
+    text-align: center;
+    color: rgba(255, 0, 119, 0.949);
+    margin-right: -42px;
+}
+
+.tonkotsu-ramen {
+    text-align: center;
+    color: rgba(255, 0, 119, 0.722);
+}
+
+.list-style li {
+    list-style-type: none;
+}
+
+.shoyu-ramen {
+    text-align: center;
+    color: rgba(255, 0, 119, 0.722);
+}
+
+.miso-ramen {
+    text-align: center;
+    color: rgba(255, 0, 119, 0.722);
+}
+
+.veggie-ramen {
+    text-align: center;
+    color: rgba(255, 0, 119, 0.722);
+}
+
+.product-image-1 {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.product-image-2 {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.product-image-3 {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.product-image-4 {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.opening-hours {
+    text-align: center;
+    margin-right: -42px;
+    color: rgba(255, 0, 119, 0.949);
+}
+
+.welcome {
+    text-align: center;
+    color: rgba(255, 0, 119, 0.722);
+    margin: auto;
+    width: 60%;
+}
+
+.welcome,
+.welcome th,
+.welcome td {
+    border: 2px solid #dddddd;
+}
+
+.welcome th,
+.welcome td {
+    padding: 10px;
+    text-align: center;
+}
+
+.footer {
+    background-color: rgba(255, 0, 119, 0.077);
+    text-align: center;
+}
+
+.navigation-content a:hover {
+    background-color: rgba(255, 0, 119, 0.579);
+    color: white;
+}
