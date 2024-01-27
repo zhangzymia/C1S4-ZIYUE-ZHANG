@@ -7,7 +7,7 @@ def speeding_ticket(speed, is_birthday):
         speed_limit_small_ticket = 80
     if speed <= speed_limit_no_ticket:
         return "No Ticket"
-    elif speed_limit_no_ticket < speed <=speed_limit_small_ticket:
+    elif speed <=speed_limit_small_ticket:
         return "Small Ticket"
     else:
         return "Big Ticket"
